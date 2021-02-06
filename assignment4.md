@@ -2,7 +2,9 @@
 
 Kaitlin Bell
 
-[Original Spreadsheet](https://github.com/kaitrbell/AU-data-spring2021/blob/main/final_results.csv)
+[Original Spreadsheet](https://github.com/kaitrbell/AU-data-spring2021/blob/main/final_results.csv) 
+
+- Originating from [here](https://github.com/anuparna/jeopardy/blob/master/dataset/final_results.csv)
 
 [Cleaned Spreadsheet](https://github.com/kaitrbell/AU-data-spring2021/blob/main/final_results_cleaned.csv)
 
