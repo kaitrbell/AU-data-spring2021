@@ -12,4 +12,4 @@ Kaitlin Bell
 2. Repeated step 1 with column F
 4. Filtered column C to ensure there are no typos
 5. Repeated step 4 on column F
-3. Gained clarity on "coryat_score" definition and use
+3. Reach out for clarity on "coryat_score" definition and use
